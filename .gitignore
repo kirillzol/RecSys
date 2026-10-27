@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+data/
+outputs/
+*.gz
+*.zip
+*.parquet
+*.npy
+*.npz
+*.pt

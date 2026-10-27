@@ -1,0 +1,8 @@
+# На этапе реализации проверим окружение и зафиксируем точные версии.
+numpy
+scipy
+pandas
+matplotlib
+jupyterlab
+ipykernel
+torch
